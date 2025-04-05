@@ -2,4 +2,8 @@
 git  and github assignment
 # I’m already screwed
 # I’m still screwed
-# im the best
+<<<<<<< HEAD
+# We're both the best, ugh
+=======
+# We're both the best, ugh
+>>>>>>> feature
